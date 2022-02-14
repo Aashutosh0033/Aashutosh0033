@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on Projects based on Machine Learning/Full-Stack Web-development/Android Development
 - 📫 How to reach me? Mail me on: sarodeaashu14@gmail.com 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashutosh0033&count_private=true&show_icons=true&theme=radical)
+
+
+
+<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashutosh0033&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutosh0033&show_icons=true&theme=radical)<br><br><br>
 
 <!---
