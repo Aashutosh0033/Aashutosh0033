@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Aashutosh0033)
 - 👋 Hi, I’m @Aashutosh0033
 - 👀 I’m interested in Exploring New Technologies 
 - 🌱 I’m currently learning Cpp, Python and JavaScript 
