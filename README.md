@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Aashutosh0033)
 - 👋 Hi, I’m @Aashutosh0033
 - 👀 I’m interested in Exploring New Technologies 
 - 🌱 I’m currently learning Cpp, Python and JavaScript 
@@ -11,7 +12,7 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutosh0033&show_icons=true&theme=radical)<br><br><br>
 
 
-![](https://komarev.com/ghpvc/?username=Aashutosh0033)
+
 
 <!---
 Aashutosh0033/Aashutosh0033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
