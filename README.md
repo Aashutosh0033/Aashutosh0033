@@ -11,7 +11,7 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutosh0033&show_icons=true&theme=radical)<br><br><br>
 
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+
 
 <!---
 Aashutosh0033/Aashutosh0033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
