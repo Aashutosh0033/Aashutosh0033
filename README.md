@@ -10,6 +10,7 @@
 <br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aashutosh0033&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutosh0033&show_icons=true&theme=radical)<br><br><br>
 
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
 
 
 
