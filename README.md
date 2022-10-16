@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aashutosh0033
 - 👀 I’m interested in Exploring New Technologies 
-- 🌱 I’m currently learning Cpp, Python and JavaScript 
+- 🌱 Familiar with C++, Python, JavaScript and an intermediate in Java 
 - 💞️ I’m looking to collaborate on Projects based on Machine Learning/Full-Stack Web-development
 - 📫 How to reach me? Mail me on: sarodeaashu14@gmail.com 
 
