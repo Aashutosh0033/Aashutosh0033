@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aashutosh0033
-- 👀 I’m interested in Exploring New Technologies 
-- 🌱 Familiar with C++, Python, JavaScript and an intermediate in Java 
-- 💞️ I’m looking to collaborate on Projects based on Machine Learning/Full-Stack Web-development
+- 👀 I’m interested in exploring new technologies 
+- 🌱 Always a Java and JavaScript learner and an admirer of C++, Python and Golang
+- 💞️ Ready to collaborate on projects related to frontend and backend architectures but flexible & interested to work in any domain.
 - 📫 How to reach me? Mail me on: sarodeaashu14@gmail.com 
 
 
